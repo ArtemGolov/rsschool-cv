@@ -1,2 +1,1 @@
-# rsschool-cv
-ArtemGolov
+https://artemgolov.github.io/rsschool-cv/cv
